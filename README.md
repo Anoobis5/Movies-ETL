@@ -22,7 +22,9 @@ After extracting, transforming, and loading our data we performed queries to ens
 *Our movies table has 31 columns hold a range 6048 different movies.
 
 ![ratings_query](https://user-images.githubusercontent.com/84881187/127754096-72d0f7e5-fdf7-43d2-a15d-f08de725bd1f.PNG)
-*The ratimgs table has 5 different columns hold a range of 26,024,289 rows of individual users
+
+
+*The ratings table has 5 different columns hold a range of 26,024,289 rows of individual users
 
 After having cleaned the data, imorting all of the ratings rows took 1276.116042137146 total seconds, or 21.2 mins when we ran the code. By cleaning the data, Britta and her participants will have cleaned and structured data to use for the algorithms in the hackathon. 
 
